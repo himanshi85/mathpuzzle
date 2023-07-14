@@ -22,27 +22,27 @@ class _fiState extends State<fi> {
       color: Colors.transparent,
       width: 2,
       style: BorderStyle.solid,
-      strokeAlign: StrokeAlign.center));
+      ));
   Border brrr=(Border.all(
       color: Colors.transparent,
       width: 2,
       style: BorderStyle.solid,
-      strokeAlign: StrokeAlign.center));
+      ));
   Border brrrr=(Border.all(
       color: Colors.transparent,
       width: 2,
       style: BorderStyle.solid,
-      strokeAlign: StrokeAlign.center));
+   ));
   Border b = (Border.all(
       color: Colors.grey,
       width: 2,
       style: BorderStyle.solid,
-      strokeAlign: StrokeAlign.center));
+     ));
   Border br = (Border.all(
       color: Colors.transparent,
       width: 2,
       style: BorderStyle.solid,
-      strokeAlign: StrokeAlign.center)
+  )
       
   );
 
@@ -341,7 +341,7 @@ class _fiState extends State<fi> {
                               border: Border.all(
                                   color: Colors.black,
                                   style: BorderStyle.solid,
-                                  strokeAlign: StrokeAlign.center,
+
                                   width: 2)),
                           //alignment: Alignment.topLeft,
                           child: Center(

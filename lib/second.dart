@@ -23,17 +23,17 @@ class _secState extends State<sec> {
       color: Colors.transparent,
       width: 2,
       style: BorderStyle.solid,
-      strokeAlign: StrokeAlign.center));
+    ));
   Border br = (Border.all(
       color: Colors.grey,
       width: 2,
       style: BorderStyle.solid,
-      strokeAlign: StrokeAlign.center));
+      ));
   Border brrrr=(Border.all(
       color: Colors.transparent,
       width: 2,
       style: BorderStyle.solid,
-      strokeAlign: StrokeAlign.center));
+    ));
 
 
 
